@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Mod id="faafc134-1a51-4b9e-8f73-70c02fcc40cb" version="2">
+<Mod id="4caaa456-2b22-3a6f-7d52-61b21abd31bb" version="2">
   <Properties>
     <Name>Daenerys Stormborn of House Targaryen</Name>
     <Stability>Alpha</Stability>
@@ -26,12 +26,12 @@ Danaerys Stormborn of House Targaryen.
   <References />
   <Blocks />
   <Files>
-    <File md5="98872B2F0AA552C93B0044AB0CDD6814" import="1">Art/ALPHA_DARK_ELVES128.dds</File>
-    <File md5="B3B84A990C395CD92B1E868481840AC8" import="1">Art/ALPHA_DARK_ELVES256.dds</File>
-    <File md5="1AC4D15A5D9D5E2E9A2780F95A5315FB" import="1">Art/ALPHA_DARK_ELVES32.dds</File>
-    <File md5="BFF055CD711DCAE5F093C6293553763E" import="1">Art/ALPHA_DARK_ELVES45.dds</File>
-    <File md5="C84349893F66C0F23D044DFA44601B0D" import="1">Art/ALPHA_DARK_ELVES64.dds</File>
-    <File md5="277064D2200F0F4CA4B58AE369FBBF82" import="1">Art/ALPHA_DARK_ELVES80.dds</File>
+    <File md5="98872B2F0AA552C93B0044AB0CDD6814" import="1">Art/ALPHA_DANY128.dds</File>
+    <File md5="B3B84A990C395CD92B1E868481840AC8" import="1">Art/ALPHA_DANY256.dds</File>
+    <File md5="1AC4D15A5D9D5E2E9A2780F95A5315FB" import="1">Art/ALPHA_DANY32.dds</File>
+    <File md5="BFF055CD711DCAE5F093C6293553763E" import="1">Art/ALPHA_DANY45.dds</File>
+    <File md5="C84349893F66C0F23D044DFA44601B0D" import="1">Art/ALPHA_DANY64.dds</File>
+    <File md5="277064D2200F0F4CA4B58AE369FBBF82" import="1">Art/ALPHA_DANY80.dds</File>
     <File md5="9ACC0F4AA8D581A12582183C65897A21" import="1">Art/black_dragon.dds</File>
     <File md5="E81250B2ED415435D5EFB9C0106CB8C0" import="1">Art/black_dragon.fxsxml</File>
     <File md5="A1B51B53E917CB554572A5C4CC2CBBBD" import="1">Art/black_dragon.gr2</File>
@@ -44,71 +44,67 @@ Danaerys Stormborn of House Targaryen.
     <File md5="818A41D7D08AA2CF90304DDCE8CDA2B8" import="1">Art/dragon_idle_anim.gr2</File>
     <File md5="C84BBFF6654084E7F43766AEDE37A52D" import="1">Art/dragon_landing_anim.gr2</File>
     <File md5="8B6A044C475A84D12EBDBAB0FCA0B471" import="1">Art/fire_dragon.ftsxml</File>
-    <File md5="1C1DF1F57CB1FB6C03C0152B80456260" import="1">Art/fx_triggers_wizard_m3.ftsxml</File>
-    <File md5="1EED09CF6B62B97745ABD05530FF191F" import="1">Art/IconAtlas_DARK_ELVES128.dds</File>
-    <File md5="34A5A2402A3D82A27A4B70854F0192BA" import="1">Art/IconAtlas_DARK_ELVES256.dds</File>
-    <File md5="E4438919BCDC32700A771673EB225E07" import="1">Art/IconAtlas_DARK_ELVES32.dds</File>
-    <File md5="AB67B96749638E3153300D1B93D48DC8" import="1">Art/IconAtlas_DARK_ELVES45.dds</File>
-    <File md5="6BA742EC4341301729FFFA8987FBFA00" import="1">Art/IconAtlas_DARK_ELVES64.dds</File>
-    <File md5="27710E1EE5CBF203F5C053C311F4408D" import="1">Art/IconAtlas_DARK_ELVES80.dds</File>
+    <File md5="1C1DF1F57CB1FB6C03C0152B80456260" import="1">Art/fx_triggers_unsullied_m3.ftsxml</File>
+    <File md5="1EED09CF6B62B97745ABD05530FF191F" import="1">Art/IconAtlas_DANY128.dds</File>
+    <File md5="34A5A2402A3D82A27A4B70854F0192BA" import="1">Art/IconAtlas_DANY256.dds</File>
+    <File md5="E4438919BCDC32700A771673EB225E07" import="1">Art/IconAtlas_DANY32.dds</File>
+    <File md5="AB67B96749638E3153300D1B93D48DC8" import="1">Art/IconAtlas_DANY45.dds</File>
+    <File md5="6BA742EC4341301729FFFA8987FBFA00" import="1">Art/IconAtlas_DANY64.dds</File>
+    <File md5="27710E1EE5CBF203F5C053C311F4408D" import="1">Art/IconAtlas_DANY80.dds</File>
     <File md5="05D4928AA2FA25C6B1CBE5A39CB346A0" import="1">Art/Icon_BLACK_DRAGON128.dds</File>
     <File md5="DBA49F6E67989A67B54E4AFB5C2E83C0" import="1">Art/Icon_BLACK_DRAGON256.dds</File>
     <File md5="5150F20326060F4C457564EEA366557C" import="1">Art/Icon_BLACK_DRAGON45.dds</File>
     <File md5="35000C18ED7C4263B414AE9331327DC6" import="1">Art/Icon_BLACK_DRAGON64.dds</File>
     <File md5="FA7B2B1813823B0E678B9173513FC2C6" import="1">Art/Icon_BLACK_DRAGON80.dds</File>
     <File md5="E8A45AEEBB7D69D6BCE744DC7C5C2DC4" import="1">Art/Icon_BLACK_DRAGON_FLAG32.dds</File>
-    <File md5="A14A36F4D367D76CB31A706AE85C3530" import="1">Art/Icon_BUILDING_PORTAL128.dds</File>
-    <File md5="86B23F8DA551C81092C6F17C80A5F48F" import="1">Art/Icon_BUILDING_PORTAL256.dds</File>
-    <File md5="BCC175E439B674E9FC9BC628C012669E" import="1">Art/Icon_BUILDING_PORTAL45.dds</File>
-    <File md5="65FFEC69A1C90B31B4E613AF507C50A0" import="1">Art/Icon_BUILDING_PORTAL64.dds</File>
-    <File md5="C6C9D1FE24EA2BE21560590F0DCDC3D8" import="1">Art/Icon_DARK_WIZARD128.dds</File>
-    <File md5="ACE819F41DF271B99399C67AB17572C2" import="1">Art/Icon_DARK_WIZARD256.dds</File>
-    <File md5="5A679B1461F23D9423837488EEBBA55E" import="1">Art/Icon_DARK_WIZARD45.dds</File>
-    <File md5="7553E0DA8BE3E29718174C43594C7958" import="1">Art/Icon_DARK_WIZARD64.dds</File>
-    <File md5="7D28D7F0185B2CA69B5E5C00D55ABB7D" import="1">Art/Icon_DARK_WIZARD80.dds</File>
-    <File md5="F9872DE2C96EB872E0B95E18705889DA" import="1">Art/Icon_DARK_WIZARD_FLAG32.dds</File>
-    <File md5="71D880D3B76FA39DA1CD51B215C1CBF2" import="1">Art/Icon_Leader_DARK_QUEEN128.dds</File>
-    <File md5="7406C4BB7C209D4231912D900A49BEB1" import="1">Art/Icon_Leader_DARK_QUEEN256.dds</File>
-    <File md5="22F792340D4A05F47A48D041881E6842" import="1">Art/Icon_Leader_DARK_QUEEN64.dds</File>
-    <File md5="3E904598BB72CA1B39F92D69327A1154" import="1">Art/Leader_DARK_QUEEN_DOM.dds</File>
-    <File md5="0CBD303A106AE87A1E07A0DCB96A7CC2" import="1">Art/Leader_DARK_QUEEN_THRONE.dds</File>
-    <File md5="5A2CBC60000AA7B25FD973256FC3E7EB" import="1">Art/Map_Image_DarkElves.dds</File>
-    <File md5="64F5EAF1C29A90FF41BA5C09B84DFE59" import="1">Art/WIZARDM3_MAP00.dds</File>
-    <File md5="AB2DDCF6210FCCDB8D148A6560E7B5C2" import="1">Art/WIZARDM3_MAP01.dds</File>
-    <File md5="107B940C5323419FB308CBAC3757D114" import="1">Art/WIZARDM3_MAP02.dds</File>
-    <File md5="0F04E858D29ED018138709A13202F3BC" import="1">Art/Wizard_M3.fxsxml</File>
-    <File md5="6CFCDB6F5605F3E0F7B351EAE7D590FD" import="1">Art/Wizard_M3.gr2</File>
-    <File md5="02546279199CDDB5CED0479459810619" import="0">XML/DARKELVES_Buildings.xml</File>
-    <File md5="C937083DB77D6404E857FE99099FD228" import="0">XML/DARKELVES_Civilization.xml</File>
-    <File md5="38B2AAD39F5EDF905B67F5032D59DBEE" import="0">XML/DARKELVES_DiplomacyResponses.xml</File>
-    <File md5="65C9A9FAC999C79B72CC6D2AF1BC3E56" import="0">XML/GameInfo/DARKELVES_IconAtlas.xml</File>
-    <File md5="7EAE198E102F1257FF8497207D55749A" import="1">XML/GameInfo/Leader_Scene_DARK_QUEEN.xml</File>
-    <File md5="B4832E7E97086C6702217D5425F91619" import="0">XML/DARKELVES_Leader.xml</File>
-    <File md5="4EB8263D6980BAA49CD08E072A2246FC" import="0">XML/DARKELVES_Traits.xml</File>
-    <File md5="60DDC2DE8120878DD53B71618B17C46F" import="0">XML/DARKELVES_Units.xml</File>
+    <File md5="C6C9D1FE24EA2BE21560590F0DCDC3D8" import="1">Art/Icon_UNSULLIED128.dds</File>
+    <File md5="ACE819F41DF271B99399C67AB17572C2" import="1">Art/Icon_UNSULLIED256.dds</File>
+    <File md5="5A679B1461F23D9423837488EEBBA55E" import="1">Art/Icon_UNSULLIED45.dds</File>
+    <File md5="7553E0DA8BE3E29718174C43594C7958" import="1">Art/Icon_UNSULLIED64.dds</File>
+    <File md5="7D28D7F0185B2CA69B5E5C00D55ABB7D" import="1">Art/Icon_UNSULLIED80.dds</File>
+    <File md5="F9872DE2C96EB872E0B95E18705889DA" import="1">Art/Icon_UNSULLIED_FLAG32.dds</File>
+    <File md5="71D880D3B76FA39DA1CD51B215C1CBF2" import="1">Art/Icon_Leader_DANY128.dds</File>
+    <File md5="7406C4BB7C209D4231912D900A49BEB1" import="1">Art/Icon_Leader_DANY256.dds</File>
+    <File md5="22F792340D4A05F47A48D041881E6842" import="1">Art/Icon_Leader_DANY64.dds</File>
+    <File md5="3E904598BB72CA1B39F92D69327A1154" import="1">Art/Leader_DANY_DOM.dds</File>
+    <File md5="0CBD303A106AE87A1E07A0DCB96A7CC2" import="1">Art/Leader_DANY_THRONE.dds</File>
+    <File md5="5A2CBC60000AA7B25FD973256FC3E7EB" import="1">Art/Map_Image_Dany.dds</File>
+    <File md5="64F5EAF1C29A90FF41BA5C09B84DFE59" import="1">Art/UNSULLIEDM3_MAP00.dds</File>
+    <File md5="AB2DDCF6210FCCDB8D148A6560E7B5C2" import="1">Art/UNSULLIEDM3_MAP01.dds</File>
+    <File md5="107B940C5323419FB308CBAC3757D114" import="1">Art/UNSULLIEDM3_MAP02.dds</File>
+    <File md5="0F04E858D29ED018138709A13202F3BC" import="1">Art/UNSULLIED_M3.fxsxml</File>
+    <File md5="6CFCDB6F5605F3E0F7B351EAE7D590FD" import="1">Art/UNSULLIED_M3.gr2</File>
+    <File md5="02546279199CDDB5CED0479459810619" import="0">XML/DANY_Buildings.xml</File>
+    <File md5="C937083DB77D6404E857FE99099FD228" import="0">XML/DANY_Civilization.xml</File>
+    <File md5="38B2AAD39F5EDF905B67F5032D59DBEE" import="0">XML/DANY_DiplomacyResponses.xml</File>
+    <File md5="65C9A9FAC999C79B72CC6D2AF1BC3E56" import="0">XML/GameInfo/DANY_IconAtlas.xml</File>
+    <File md5="7EAE198E102F1257FF8497207D55749A" import="1">XML/GameInfo/Leader_Scene_DANY.xml</File>
+    <File md5="B4832E7E97086C6702217D5425F91619" import="0">XML/DANY_Leader.xml</File>
+    <File md5="4EB8263D6980BAA49CD08E072A2246FC" import="0">XML/DANY_Traits.xml</File>
+    <File md5="60DDC2DE8120878DD53B71618B17C46F" import="0">XML/DANY_Units.xml</File>
     <File md5="17A963795B301748D42F02AF9CEE7487" import="0">XML/UnitSound.xml</File>
     <File md5="DE7E085D6EDC683E88DBFDF5BC2B11CE" import="0">XML/Unit_Black_Dragon.xml</File>
     <File md5="DE7E085D6EDC683E88DBFDF5BC2B11CB" import="0">XML/Unit_Black_Dragon_b.xml</File>
     <File md5="DE7E085D6EDC683E88DBFDF5BC2B11CC" import="0">XML/Unit_Black_Dragon_c.xml</File>
     <File md5="DE7E085D6EDC683E88DBFDF5BC2B11CD" import="0">XML/Unit_Black_Dragon_d.xml</File>
-    <File md5="89B903856065FD92102FF56141AEEC0F" import="0">XML/Unit_Wizard_Art.xml</File>
+    <File md5="89B903856065FD92102FF56141AEEC0F" import="0">XML/Unit_Unsullied_Art.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
-      <UpdateDatabase>XML/DARKELVES_Units.xml</UpdateDatabase>
-      <UpdateDatabase>XML/Unit_Wizard_Art.xml</UpdateDatabase>
-      <UpdateDatabase>XML/DARKELVES_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DANY_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit_Unsullied_Art.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DANY_Buildings.xml</UpdateDatabase>
       <UpdateDatabase>XML/Unit_Black_Dragon.xml</UpdateDatabase>
       <UpdateDatabase>XML/Unit_Black_Dragon_b.xml</UpdateDatabase>
       <UpdateDatabase>XML/Unit_Black_Dragon_c.xml</UpdateDatabase>
       <UpdateDatabase>XML/Unit_Black_Dragon_d.xml</UpdateDatabase>
       <UpdateDatabase>XML/UnitSound.xml</UpdateDatabase>
-      <UpdateDatabase>XML/GameInfo/DARKELVES_IconAtlas.xml</UpdateDatabase>
-      <UpdateDatabase>XML/GameInfo/Leader_Scene_DARK_QUEEN.xml</UpdateDatabase>
-      <UpdateDatabase>XML/DARKELVES_Civilization.xml</UpdateDatabase>
-      <UpdateDatabase>XML/DARKELVES_DiplomacyResponses.xml</UpdateDatabase>
-      <UpdateDatabase>XML/DARKELVES_Leader.xml</UpdateDatabase>
-      <UpdateDatabase>XML/DARKELVES_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/DANY_IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/Leader_Scene_DANY.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DANY_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DANY_DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DANY_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/DANY_Traits.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

@@ -2,31 +2,31 @@
 <GameData>
 	<ArtDefine_UnitInfos>		
 		<Row>
-			<Type>ART_DEF_UNIT_WIZARD_M3</Type>
+			<Type>ART_DEF_UNIT_UNSULLIED_M3</Type>
 			<DamageStates>1</DamageStates>
 			<Formation>Archer</Formation>
 		</Row>		
 	</ArtDefine_UnitInfos>
 	<ArtDefine_UnitInfoMemberInfos>			
 		<Row>
-			<UnitInfoType>ART_DEF_UNIT_WIZARD_M3</UnitInfoType>
-			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_WIZARD_M3</UnitMemberInfoType>
+			<UnitInfoType>ART_DEF_UNIT_UNSULLIED_M3</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_UNSULLIED_M3</UnitMemberInfoType>
 			<NumMembers>6</NumMembers>
 		</Row>		
 	</ArtDefine_UnitInfoMemberInfos>
 	<ArtDefine_UnitMemberInfos>		
 		<Row>
-			<Type>ART_DEF_UNIT_MEMBER_WIZARD_M3</Type>
+			<Type>ART_DEF_UNIT_MEMBER_UNSULLIED_M3</Type>
 			<Scale>0.08</Scale>
 			<!--0.140000000596046/-->
-			<Model>Wizard_M3.fxsxml</Model>
+			<Model>UNSULLIED_M3.fxsxml</Model>
 			<MaterialTypeTag>CLOTH</MaterialTypeTag>
 			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
 		</Row>		
 	</ArtDefine_UnitMemberInfos>
 	<ArtDefine_UnitMemberCombats>		
 		<Row>
-			<UnitMemberType>ART_DEF_UNIT_MEMBER_WIZARD_M3</UnitMemberType>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_UNSULLIED_M3</UnitMemberType>
 			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
 			<ShortMoveRadius>12.0</ShortMoveRadius>
 			<ShortMoveRate>0.349999994039536</ShortMoveRate>
@@ -36,7 +36,7 @@
 	</ArtDefine_UnitMemberCombats>
 	<ArtDefine_UnitMemberCombatWeapons>			
 		<Row>
-			<UnitMemberType>ART_DEF_UNIT_MEMBER_WIZARD_M3</UnitMemberType>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_UNSULLIED_M3</UnitMemberType>
 			<Index>0</Index>
 			<SubIndex>0</SubIndex>
 			<WeaponTypeTag>BLUNT</WeaponTypeTag>
@@ -45,7 +45,7 @@
 	</ArtDefine_UnitMemberCombatWeapons>
 	<ArtDefine_StrategicView>		
 		<Row>
-			<StrategicViewType>ART_DEF_UNIT_WIZARD_M3</StrategicViewType>
+			<StrategicViewType>ART_DEF_UNIT_UNSULLIED_M3</StrategicViewType>
 			<TileType>Unit</TileType>
 			<Asset>SV_Pathfinder.dds</Asset>
 		</Row>		

@@ -1,9 +1,9 @@
 <GameData>
 	<Traits>
 		<Row>
-			<Type>TRAIT_EMBRACE_MAGIC</Type>
-			<Description>TXT_KEY_TRAIT_EMBRACE_MAGIC</Description>
-			<ShortDescription>TXT_KEY_TRAIT_EMBRACE_MAGIC_SHORT</ShortDescription>
+			<Type>TRAIT_MHYSA</Type>
+			<Description>TXT_KEY_TRAIT_MHYSA</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MHYSA_SHORT</ShortDescription>
 			<LevelExperienceModifier>0</LevelExperienceModifier>
 			<GreatPeopleRateModifier>0</GreatPeopleRateModifier>
 			<GreatScientistRateModifier>0</GreatScientistRateModifier>
@@ -109,7 +109,7 @@
 	<!-- Trait_YieldChangesIncomingTradeRoute -->
 	<Trait_YieldModifiers>
 		<Row>
-			<TraitType>TRAIT_EMBRACE_MAGIC</TraitType>
+			<TraitType>TRAIT_MHYSA</TraitType>
 			<YieldType>YIELD_FOOD</YieldType>
 			<Yield>-20</Yield>
 		</Row>
@@ -128,10 +128,10 @@
 	<!-- Trait_NoTrain -->
 
 	<Language_en_US>
-		<Row Tag="TXT_KEY_TRAIT_EMBRACE_MAGIC">
+		<Row Tag="TXT_KEY_TRAIT_MHYSA">
 			<Text>-10% Unhappiness from population and from cities. -20% Food. Raze cities in one turn.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_TRAIT_EMBRACE_MAGIC_SHORT">
+		<Row Tag="TXT_KEY_TRAIT_MHYSA_SHORT">
 			<Text>Mother of Dragons</Text>
 		</Row>
 	</Language_en_US>

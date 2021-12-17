@@ -2,21 +2,21 @@
 <GameData>
 	<ArtDefine_UnitInfoMemberInfos>
 		<Row>
-			<UnitInfoType>ART_DEF_UNIT_ELVEN_BLACK_DRAGON</UnitInfoType>
-			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_ELVEN_BLACK_DRAGON</UnitMemberInfoType>
+			<UnitInfoType>ART_DEF_UNIT_BLACK_DRAGON</UnitInfoType>
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_BLACK_DRAGON</UnitMemberInfoType>
 			<NumMembers>1</NumMembers>
 		</Row>
 	</ArtDefine_UnitInfoMemberInfos>
 	<ArtDefine_UnitInfos>
 		<Row>
-			<Type>ART_DEF_UNIT_ELVEN_BLACK_DRAGON</Type>
+			<Type>ART_DEF_UNIT_BLACK_DRAGON</Type>
 			<DamageStates>1</DamageStates>
 			<Formation>Unformed</Formation>
 		</Row>
 	</ArtDefine_UnitInfos>
 	<ArtDefine_UnitMemberInfos>
 		<Row>
-			<Type>ART_DEF_UNIT_MEMBER_ELVEN_BLACK_DRAGON</Type>
+			<Type>ART_DEF_UNIT_MEMBER_BLACK_DRAGON</Type>
 			<Scale>0.10</Scale>
 			<Model>black_dragon.fxsxml</Model>
 			<MaterialTypeTag>CLOTH</MaterialTypeTag>
@@ -25,7 +25,7 @@
 	</ArtDefine_UnitMemberInfos>
 	<ArtDefine_UnitMemberCombats>
 		<Row>
-			<UnitMemberType>ART_DEF_UNIT_MEMBER_ELVEN_BLACK_DRAGON</UnitMemberType>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_BLACK_DRAGON</UnitMemberType>
 			<EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk</EnableActions>
 			<ShortMoveRadius>24.0</ShortMoveRadius>
 			<ShortMoveRate>0.349999994039536</ShortMoveRate>
@@ -43,14 +43,14 @@
 	</ArtDefine_UnitMemberCombats>
 	<ArtDefine_UnitMemberCombatWeapons>
 		<Row>
-			<UnitMemberType>ART_DEF_UNIT_MEMBER_ELVEN_BLACK_DRAGON</UnitMemberType>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_BLACK_DRAGON</UnitMemberType>
 			<Index>0</Index>
 			<SubIndex>0</SubIndex>
 			<WeaponTypeTag>METAL</WeaponTypeTag>
 			<WeaponTypeSoundOverrideTag>SWORD</WeaponTypeSoundOverrideTag>
 		</Row>
 		<Row>
-			<UnitMemberType>ART_DEF_UNIT_MEMBER_ELVEN_BLACK_DRAGON</UnitMemberType>
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_BLACK_DRAGON</UnitMemberType>
 			<Index>1</Index>
 			<SubIndex>0</SubIndex>
 			<VisKillStrengthMin>10.0</VisKillStrengthMin>
@@ -61,7 +61,7 @@
 	</ArtDefine_UnitMemberCombatWeapons>
 	<ArtDefine_StrategicView>
 		<Row>
-			<StrategicViewType>ART_DEF_UNIT_ELVEN_BLACK_DRAGON</StrategicViewType>
+			<StrategicViewType>ART_DEF_UNIT_BLACK_DRAGON</StrategicViewType>
 			<TileType>Unit</TileType>
 			<Asset>SV_Horseman.dds</Asset>
 		</Row>

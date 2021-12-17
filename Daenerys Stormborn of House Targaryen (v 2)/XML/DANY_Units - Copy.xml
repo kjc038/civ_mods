@@ -19,21 +19,21 @@
 	<Units>	
 		<Row>
 			<Class>UNITCLASS_CANNON</Class>
-			<Type>UNIT_ELVEN_BLACK_DRAGON</Type>
+			<Type>UNIT_BLACK_DRAGON</Type>
 			<Combat>4</Combat>
 			<RangedCombat>5</RangedCombat>
 			<Cost>-1</Cost>
 			<FaithCost>99999</FaithCost>
 			<RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
-			<Moves>1</Moves>
+			<Moves>2</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>Dragon</Description>
 			<Civilopedia>NONE</Civilopedia>
-			<Strategy>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
-			<Help>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_HELP</Help>
+			<Strategy>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
+			<Help>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_HELP</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
@@ -45,8 +45,7 @@
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
 			<Conscription>0</Conscription>
-			<ExtraMaintenanceCost>1</ExtraMaintenanceCost>
-			<UnitArtInfo>ART_DEF_UNIT_ELVEN_BLACK_DRAGON</UnitArtInfo>
+			<UnitArtInfo>ART_DEF_UNIT_BLACK_DRAGON</UnitArtInfo>
 			<IconAtlas>CIV_BLACK_DRAGON_ICONATLAS</IconAtlas>
 			<UnitFlagAtlas>CIV_BLACK_DRAGON_FLAG</UnitFlagAtlas>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
@@ -67,8 +66,8 @@
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>Dragon</Description>
 			<Civilopedia>NONE</Civilopedia>
-			<Strategy>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
-			<Help>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_HELP</Help>
+			<Strategy>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
+			<Help>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_HELP</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
@@ -79,7 +78,6 @@
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
 			<Conscription>0</Conscription>
-			<ExtraMaintenanceCost>2</ExtraMaintenanceCost>
 			<UnitArtInfo>ART_DEF_UNIT_DRAGON</UnitArtInfo>
 			<IconAtlas>CIV_BLACK_DRAGON_ICONATLAS</IconAtlas>
 			<UnitFlagAtlas>CIV_BLACK_DRAGON_FLAG</UnitFlagAtlas>
@@ -89,8 +87,8 @@
 		<Row>
 			<Class>UNITCLASS_DRAGONN</Class>
 			<Type>UNIT_DRAGONN</Type>
-			<Combat>25</Combat>
-			<RangedCombat>35</RangedCombat>
+			<Combat>34</Combat>
+			<RangedCombat>40</RangedCombat>
 			<Cost>-1</Cost>
 			<FaithCost>99999</FaithCost>
 			<RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
@@ -101,8 +99,8 @@
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>Dragon</Description>
 			<Civilopedia>NONE</Civilopedia>
-			<Strategy>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
-			<Help>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_HELP</Help>
+			<Strategy>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
+			<Help>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_HELP</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
@@ -113,7 +111,6 @@
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
 			<Conscription>0</Conscription>
-			<ExtraMaintenanceCost>3</ExtraMaintenanceCost>
 			<UnitArtInfo>ART_DEF_UNIT_DRAGONN</UnitArtInfo>
 			<IconAtlas>CIV_BLACK_DRAGON_ICONATLAS</IconAtlas>
 			<UnitFlagAtlas>CIV_BLACK_DRAGON_FLAG</UnitFlagAtlas>
@@ -123,7 +120,7 @@
 		<Row>
 			<Class>UNITCLASS_DRAGONNN</Class>
 			<Type>UNIT_DRAGONNN</Type>
-			<Combat>40</Combat>
+			<Combat>45</Combat>
 			<RangedCombat>55</RangedCombat>
 			<Cost>-1</Cost>
 			<FaithCost>99999</FaithCost>
@@ -135,8 +132,8 @@
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>Dragon</Description>
 			<Civilopedia>NONE</Civilopedia>
-			<Strategy>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
-			<Help>TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_HELP</Help>
+			<Strategy>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_STRATEGY</Strategy>
+			<Help>TXT_KEY_CIV5_BLACK_DRAGON_UNIT_HELP</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
@@ -147,7 +144,6 @@
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
 			<Conscription>0</Conscription>
-			<ExtraMaintenanceCost>4</ExtraMaintenanceCost>
 			<UnitArtInfo>ART_DEF_UNIT_DRAGONNN</UnitArtInfo>
 			<IconAtlas>CIV_BLACK_DRAGON_ICONATLAS</IconAtlas>
 			<UnitFlagAtlas>CIV_BLACK_DRAGON_FLAG</UnitFlagAtlas>
@@ -156,11 +152,11 @@
 		</Row>
 		<Row>
 			<Class>UNITCLASS_PIKEMAN</Class>
-			<Type>UNIT_DARK_WIZARD</Type>
-			<Description>TXT_KEY_UNIT_DARK_WIZARD</Description>
-			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_DARK_WIZARD_TEXT</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_DARK_WIZARD_STRATEGY</Strategy>
-			<Help>TXT_KEY_UNIT_HELP_DARK_WIZARD</Help>
+			<Type>UNIT_UNSULLIED</Type>
+			<Description>TXT_KEY_UNIT_UNSULLIED</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_UNSULLIED_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_UNSULLIED_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_UNSULLIED</Help>
 			<Combat>16</Combat>
 			<Cost>90</Cost>
 			<FaithCost>200</FaithCost>
@@ -191,7 +187,7 @@
 			<Mechanized>0</Mechanized>
 			<Suicide>0</Suicide>
 			<CaptureWhileEmbarked>0</CaptureWhileEmbarked>
-			<PrereqTech>TECH_CURRENCY</PrereqTech>
+			<PrereqTech>TECH_CIVIL_SERVICE</PrereqTech>
 			<ObsoleteTech>TECH_INDUSTRIALIZATION</ObsoleteTech>
 			<GoodyHutUpgradeUnitClass>UNITCLASS_LANCER</GoodyHutUpgradeUnitClass>
 			<HurryCostModifier>0</HurryCostModifier>
@@ -231,7 +227,7 @@
 			<ExtraMaintenanceCost>0</ExtraMaintenanceCost>
 			<NoMaintenance>0</NoMaintenance>
 			<Unhappiness>0</Unhappiness>
-			<UnitArtInfo>ART_DEF_UNIT_SPEARMAN</UnitArtInfo>
+			<UnitArtInfo>ART_DEF_UNIT_PIKEMAN</UnitArtInfo>
 			<UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
 			<UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
 			<LeaderExperience>0</LeaderExperience>
@@ -240,29 +236,29 @@
 			<MoveRate>BIPED</MoveRate>
 			<UnitFlagIconOffset>0</UnitFlagIconOffset>
 			<PortraitIndex>0</PortraitIndex>
-			<IconAtlas>CIV_DARK_WIZARD_ICONATLAS</IconAtlas>
-			<UnitFlagAtlas>CIV_DARK_WIZARD_FLAG</UnitFlagAtlas>
+			<IconAtlas>CIV_UNSULLIED_ICONATLAS</IconAtlas>
+			<UnitFlagAtlas>CIV_UNSULLIED_FLAG</UnitFlagAtlas>
 		</Row>
 	</Units>
 	<Unit_AITypes>				
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<UnitAIType>UNITAI_COUNTER</UnitAIType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<UnitAIType>UNITAI_ATTACK</UnitAIType>
 		</Row>					
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<UnitAIType>UNITAI_SIEGE</UnitAIType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<UnitAIType>UNITAI_RANGED</UnitAIType>
 		</Row>
 		<Row>
@@ -326,7 +322,7 @@
 			<UnitAIType>UNITAI_RANGED</UnitAIType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
 			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
 		</Row>
 	</Unit_AITypes>
@@ -336,7 +332,7 @@
 	<!-- Unit_Builds -->
 	<Unit_ClassUpgrades>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<UnitClassType>UNITCLASS_DRAGON</UnitClassType>
 		</Row>
 		<Row>
@@ -348,31 +344,27 @@
 			<UnitClassType>UNITCLASS_DRAGONNN</UnitClassType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
 			<UnitClassType>UNITCLASS_LANCER</UnitClassType>
 		</Row>
 	</Unit_ClassUpgrades>
 	<Unit_FreePromotions>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<PromotionType>PROMOTION_CITY_SIEGE</PromotionType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<PromotionType>PROMOTION_MOVE_ALL_TERRAIN</PromotionType>
 		</Row>
-		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
-			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
-		</Row>	
 		<Row>
 			<UnitType>UNIT_DRAGON</UnitType>
 			<PromotionType>PROMOTION_CITY_SIEGE</PromotionType>
@@ -388,10 +380,6 @@
 		<Row>
 			<UnitType>UNIT_DRAGON</UnitType>
 			<PromotionType>PROMOTION_MOVE_ALL_TERRAIN</PromotionType>
-		</Row>
-		<Row>
-			<UnitType>UNIT_DRAGON</UnitType>
-			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
 		</Row>
 		<Row>
 			<UnitType>UNIT_DRAGONN</UnitType>
@@ -414,10 +402,6 @@
 			<PromotionType>PROMOTION_HOVERING_UNIT</PromotionType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DRAGONN</UnitType>
-			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
-		</Row>
-		<Row>
 			<UnitType>UNIT_DRAGONNN</UnitType>
 			<PromotionType>PROMOTION_CITY_SIEGE</PromotionType>
 		</Row>
@@ -438,35 +422,27 @@
 			<PromotionType>PROMOTION_HOVERING_UNIT</PromotionType>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DRAGONNN</UnitType>
-			<PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
-		</Row>
-		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
-			<PromotionType>PROMOTION_COVER_1</PromotionType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
+			<PromotionType>PROMOTION_COVER</PromotionType>
 		</Row>	
 		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
 			<PromotionType>PROMOTION_FORMATION_2</PromotionType>
-		</Row>	
-		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
-			<PromotionType>PROMOTION_FORMATION_1</PromotionType>
 		</Row>	
 	</Unit_FreePromotions>
 	<Unit_Flavors>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
 			<Flavor>15</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
 			<Flavor>5</Flavor>
 		</Row>		
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<FlavorType>FLAVOR_SIEGE</FlavorType>
 			<Flavor>15</Flavor>
 		</Row>
@@ -516,12 +492,12 @@
 			<Flavor>15</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
 			<Flavor>5</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
 			<Flavor>5</Flavor>
 		</Row>
@@ -536,44 +512,44 @@
 	<!-- UnitPromotions_CivilianUnitType -->
 	<UnitGameplay2DScripts>
 		<Row>
-			<UnitType>UNIT_ELVEN_BLACK_DRAGON</UnitType>
+			<UnitType>UNIT_BLACK_DRAGON</UnitType>
 			<SelectionSound>AS2D_SELECT_CANNON</SelectionSound>
 			<FirstSelectionSound>AS2D_BIRTH_CANNON</FirstSelectionSound>
 		</Row>
 		<Row>
-			<UnitType>UNIT_DARK_WIZARD</UnitType>
+			<UnitType>UNIT_UNSULLIED</UnitType>
 			<SelectionSound>AS2D_SELECT_ARCHER</SelectionSound>
 			<FirstSelectionSound>AS2D_BIRTH_ARCHER</FirstSelectionSound>
 		</Row>
 	</UnitGameplay2DScripts>
 
 	<Language_en_US>
-		<Row Tag="TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_HEADING">
+		<Row Tag="TXT_KEY_CIV5_BLACK_DRAGON_UNIT_HEADING">
 			<Text>Dragon</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_TEXT">
+		<Row Tag="TXT_KEY_CIV5_BLACK_DRAGON_UNIT_TEXT">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_STRATEGY">
+		<Row Tag="TXT_KEY_CIV5_BLACK_DRAGON_UNIT_STRATEGY">
 			<Text>The Dragon is extremely effective against cities. It is fast and sturdy, but has a shorter range of attack. The Black Dragon doesn't need to set up before attacking and can fly over obstacles.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIV5_ELVEN_BLACK_DRAGON_UNIT_HELP">
+		<Row Tag="TXT_KEY_CIV5_BLACK_DRAGON_UNIT_HELP">
 			<Text>Siege unit of every era. Fast and strong against cities, but has a short range of attack. You only get three.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_UNIT_DARK_WIZARD">
+		<Row Tag="TXT_KEY_UNIT_UNSULLIED">
 			<Text>Unsullied</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_DARK_WIZARD_TEXT">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_UNSULLIED_TEXT">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_UNIT_DARK_WIZARD_STRATEGY">
+		<Row Tag="TXT_KEY_UNIT_UNSULLIED_STRATEGY">
 			<Text>The Unsullied are the replacement for Pikemen. They are uniquely suited for defense.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_UNIT_HELP_DARK_WIZARD">
+		<Row Tag="TXT_KEY_UNIT_HELP_UNSULLIED">
 			<Text>The Unsullied are the replacement for Pikemen. hey are uniquely suited for defense, especially against mounted units.</Text>
 		</Row>
 	</Language_en_US>	

@@ -1,149 +1,149 @@
 <GameData>
 	<IconTextureAtlases>
 		<Row>
-			<Atlas>CIV_COLOR_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_COLOR_ATLAS_DANY</Atlas>
 			<IconSize>256</IconSize>
-			<Filename>Art/IconAtlas_DARK_ELVES256.dds</Filename>
+			<Filename>Art/IconAtlas_DANY256.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_COLOR_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_COLOR_ATLAS_DANY</Atlas>
 			<IconSize>128</IconSize>
-			<Filename>Art/IconAtlas_DARK_ELVES128.dds</Filename>
+			<Filename>Art/IconAtlas_DANY128.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_COLOR_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_COLOR_ATLAS_DANY</Atlas>
 			<IconSize>80</IconSize>
-			<Filename>Art/IconAtlas_DARK_ELVES80.dds</Filename>
+			<Filename>Art/IconAtlas_DANY80.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_COLOR_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_COLOR_ATLAS_DANY</Atlas>
 			<IconSize>64</IconSize>
-			<Filename>Art/IconAtlas_DARK_ELVES64.dds</Filename>
+			<Filename>Art/IconAtlas_DANY64.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_COLOR_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_COLOR_ATLAS_DANY</Atlas>
 			<IconSize>45</IconSize>
-			<Filename>Art/IconAtlas_DARK_ELVES45.dds</Filename>
+			<Filename>Art/IconAtlas_DANY45.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_COLOR_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_COLOR_ATLAS_DANY</Atlas>
 			<IconSize>32</IconSize>
-			<Filename>Art/IconAtlas_DARK_ELVES32.dds</Filename>
+			<Filename>Art/IconAtlas_DANY32.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_ALPHA_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_ALPHA_ATLAS_DANY</Atlas>
 			<IconSize>256</IconSize>
-			<Filename>Art/ALPHA_DARK_ELVES256.dds</Filename>
+			<Filename>Art/ALPHA_DANY256.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_ALPHA_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_ALPHA_ATLAS_DANY</Atlas>
 			<IconSize>128</IconSize>
-			<Filename>Art/ALPHA_DARK_ELVES128.dds</Filename>
+			<Filename>Art/ALPHA_DANY128.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_ALPHA_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_ALPHA_ATLAS_DANY</Atlas>
 			<IconSize>80</IconSize>
-			<Filename>Art/ALPHA_DARK_ELVES80.dds</Filename>
+			<Filename>Art/ALPHA_DANY80.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_ALPHA_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_ALPHA_ATLAS_DANY</Atlas>
 			<IconSize>64</IconSize>
-			<Filename>Art/ALPHA_DARK_ELVES64.dds</Filename>
+			<Filename>Art/ALPHA_DANY64.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_ALPHA_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_ALPHA_ATLAS_DANY</Atlas>
 			<IconSize>45</IconSize>
-			<Filename>Art/ALPHA_DARK_ELVES45.dds</Filename>
+			<Filename>Art/ALPHA_DANY45.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_ALPHA_ATLAS_DARK_ELVES</Atlas>
+			<Atlas>CIV_ALPHA_ATLAS_DANY</Atlas>
 			<IconSize>32</IconSize>
-			<Filename>Art/ALPHA_DARK_ELVES32.dds</Filename>
+			<Filename>Art/ALPHA_DANY32.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_LEADER_DARK_QUEEN</Atlas>
+			<Atlas>CIV_LEADER_DANY</Atlas>
 			<IconSize>256</IconSize>
-			<Filename>Art/Icon_Leader_DARK_QUEEN256.dds</Filename>
+			<Filename>Art/Icon_Leader_DANY256.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_LEADER_DARK_QUEEN</Atlas>
+			<Atlas>CIV_LEADER_DANY</Atlas>
 			<IconSize>128</IconSize>
-			<Filename>Art/Icon_Leader_DARK_QUEEN128.dds</Filename>
+			<Filename>Art/Icon_Leader_DANY128.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_LEADER_DARK_QUEEN</Atlas>
+			<Atlas>CIV_LEADER_DANY</Atlas>
 			<IconSize>64</IconSize>
-			<Filename>Art/Icon_Leader_DARK_QUEEN64.dds</Filename>
+			<Filename>Art/Icon_Leader_DANY64.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_DARK_WIZARD_ICONATLAS</Atlas>
+			<Atlas>CIV_UNSULLIED_ICONATLAS</Atlas>
 			<IconSize>256</IconSize>
-			<Filename>Art/Icon_DARK_WIZARD256.dds</Filename>
+			<Filename>Art/Icon_UNSULLIED256.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_DARK_WIZARD_ICONATLAS</Atlas>
+			<Atlas>CIV_UNSULLIED_ICONATLAS</Atlas>
 			<IconSize>128</IconSize>
-			<Filename>Art/Icon_DARK_WIZARD128.dds</Filename>
+			<Filename>Art/Icon_UNSULLIED128.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_DARK_WIZARD_ICONATLAS</Atlas>
+			<Atlas>CIV_UNSULLIED_ICONATLAS</Atlas>
 			<IconSize>80</IconSize>
-			<Filename>Art/Icon_DARK_WIZARD80.dds</Filename>
+			<Filename>Art/Icon_UNSULLIED80.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_DARK_WIZARD_ICONATLAS</Atlas>
+			<Atlas>CIV_UNSULLIED_ICONATLAS</Atlas>
 			<IconSize>64</IconSize>
-			<Filename>Art/Icon_DARK_WIZARD64.dds</Filename>
+			<Filename>Art/Icon_UNSULLIED64.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_DARK_WIZARD_ICONATLAS</Atlas>
+			<Atlas>CIV_UNSULLIED_ICONATLAS</Atlas>
 			<IconSize>45</IconSize>
-			<Filename>Art/Icon_DARK_WIZARD45.dds</Filename>
+			<Filename>Art/Icon_UNSULLIED45.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>
 		<Row>
-			<Atlas>CIV_DARK_WIZARD_FLAG</Atlas>
+			<Atlas>CIV_UNSULLIED_FLAG</Atlas>
 			<IconSize>32</IconSize>
-			<Filename>Art/Icon_DARK_WIZARD_FLAG32.dds</Filename>
+			<Filename>Art/Icon_UNSULLIED_FLAG32.dds</Filename>
 			<IconsPerRow>1</IconsPerRow>
 			<IconsPerColumn>1</IconsPerColumn>
 		</Row>

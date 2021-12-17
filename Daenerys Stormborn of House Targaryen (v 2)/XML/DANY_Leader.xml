@@ -1,11 +1,11 @@
 <GameData>
 	<Leaders>
 		<Row>
-			<Type>LEADER_DARK_QUEEN</Type>
-			<Description>TXT_KEY_LEADER_DARK_QUEEN</Description>
-			<Civilopedia>TXT_KEY_LEADER_DARK_QUEEN_PEDIA</Civilopedia>
-			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN</CivilopediaTag>
-			<ArtDefineTag>Leader_Scene_DARK_QUEEN.xml</ArtDefineTag>
+			<Type>LEADER_DANY</Type>
+			<Description>TXT_KEY_LEADER_DANY</Description>
+			<Civilopedia>TXT_KEY_LEADER_DANY_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_DANY</CivilopediaTag>
+			<ArtDefineTag>Leader_Scene_DANY.xml</ArtDefineTag>
 			<VictoryCompetitiveness>9</VictoryCompetitiveness>
 			<WonderCompetitiveness>4</WonderCompetitiveness>
 			<MinorCivCompetitiveness>6</MinorCivCompetitiveness>
@@ -22,357 +22,357 @@
 			<Chattiness>3</Chattiness>
 			<Meanness>3</Meanness>
 			<PortraitIndex>0</PortraitIndex>
-			<IconAtlas>CIV_LEADER_DARK_QUEEN</IconAtlas>
+			<IconAtlas>CIV_LEADER_DANY</IconAtlas>
 		</Row>
 	</Leaders>
 
 	<Leader_MajorCivApproachBiases>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
 			<Bias>7</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
 			<Bias>8</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
 			<Bias>10</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
 			<Bias>7</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
 			<Bias>3</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
 			<Bias>5</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
 			<Bias>6</Bias>
 		</Row>
 	</Leader_MajorCivApproachBiases>
 	<Leader_MinorCivApproachBiases>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
 			<Bias>6</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
 			<Bias>4</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
 			<Bias>2</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
 			<Bias>8</Bias>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
 			<Bias>9</Bias>
 		</Row>
 	</Leader_MinorCivApproachBiases>
 	<Leader_Flavors>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
 			<Flavor>8</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
 			<Flavor>4</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_RECON</FlavorType>
 			<Flavor>4</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_RANGED</FlavorType>
 			<Flavor>8</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_MOBILE</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_NAVAL</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_AIR</FlavorType>
 			<Flavor>9</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_EXPANSION</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_GROWTH</FlavorType>
 			<Flavor>4</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_GOLD</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_SCIENCE</FlavorType>
 			<Flavor>10</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_CULTURE</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_WONDER</FlavorType>
 			<Flavor>3</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_RELIGION</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
 			<Flavor>4</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
 			<Flavor>9</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_NUKE</FlavorType>
 			<Flavor>9</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
 			<Flavor>9</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
 			<Flavor>8</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
 			<Flavor>9</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
 			<Flavor>5</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
 			<Flavor>7</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
 			<Flavor>4</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
 			<Flavor>4</Flavor>
 		</Row>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
 			<Flavor>10</Flavor>
 		</Row>
 	</Leader_Flavors>
 	<Leader_Traits>
 		<Row>
-			<LeaderType>LEADER_DARK_QUEEN</LeaderType>
+			<LeaderType>LEADER_DANY</LeaderType>
 			<TraitType>TRAIT_EMBRACE_MAGIC</TraitType>
 		</Row>
 	</Leader_Traits>
 
 	<Language_en_US>
-		<Row Tag="TXT_KEY_LEADER_DARK_QUEEN">
+		<Row Tag="TXT_KEY_LEADER_DANY">
 			<Text>Daenerys Targaryen</Text>
 		</Row>
-		<Row Tag="TXT_KEY_LEADER_DARK_QUEEN_PEDIA">
+		<Row Tag="TXT_KEY_LEADER_DANY_PEDIA">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_FACT_1">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_FACT_1">
 			<Text>Daenerys Targaryen</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_FACT_2">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_FACT_2">
 			<Text>Daenerys Targaryen is the daughter of King Aerys II Targaryen (also referred to as "The Mad King") and his sister-wife Queen Rhaella, and is one of the last survivors of House Targaryen.[5] She serves as the third-person point-of-view character of 31 chapters of A Game of Thrones, A Clash of Kings, A Storm of Swords, and A Dance with Dragons.[6] This makes her the series' fourth most prominent narrative voice after Tyrion Lannister, Jon Snow and Arya Stark.[7]</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_1">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_1">
 			<Text>History</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_2">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_2">
 			<Text>Early History</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_3">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_3">
 			<Text>Military Ambitions in the World</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_4">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_4">
 			<Text>Military Adventures in The Empire</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_5">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_5">
 			<Text>Domestic Improvement</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_6">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_6">
 			<Text>Culture, Religion and the Arts</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_HEADING_7">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_HEADING_7">
 			<Text>Verdict of History</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_LIVED">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_LIVED">
 			<Text>uknown - uknown AD</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_NAME">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_NAME">
 			<Text>Daenerys Targaryen</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_SUBTITLE">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_SUBTITLE">
 			<Text>Mother of Dragons</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_1">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_1">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_2">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_2">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_3">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_3">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_4">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_4">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_5">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_5">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_6">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_6">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TEXT_7">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TEXT_7">
 			<Text>
 				<!-- Add Civilopedia text here -->
 			</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TITLES_1">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TITLES_1">
 			<Text>Mhysa</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DARK_QUEEN_TITLES_2">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DANY_TITLES_2">
 			<Text>Stormborn, the First of Her Name, The Unburnt, Queen of the Andals, the Rhoynar and the First Men, Queen of Meereen, Khaleesi of the Great Grass Sea, Protector of the Realm, Lady Regnant of the Seven Kingdoms, Breaker of Chains and Mother of Dragons</Text>
 		</Row>
 	</Language_en_US>
